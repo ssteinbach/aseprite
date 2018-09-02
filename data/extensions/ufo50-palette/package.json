@@ -1,0 +1,16 @@
+{
+  "name": "ufo50-palettes",
+  "displayName": "UFO 50 Palette",
+  "description": "Palette from UFO 50 created by @strotchy",
+  "version": "1.0",
+  "author": { "name": "Strotchy", "url": "https://50games.fun" },
+  "publisher": "aseprite",
+  "categories": [
+    "Palettes"
+  ],
+  "contributes": {
+    "palettes": [
+      { "id": "UFO-50", "path": "./ufo50.gpl" }
+    ]
+  }
+}
